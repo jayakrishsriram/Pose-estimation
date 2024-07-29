@@ -36,6 +36,8 @@ This Project is a part of Infosys Internship 4.0 Project. This project focuses o
 4. **Video Processing**: The video is processed to predict exercises.
 5. **Playback and Download**: The processed video is displayed with `st.video` and a download button is provided with `st.download_button`.
 
-## Sample Input:
-<iframe src="https://drive.google.com/file/d/1EYi3GBN0F26QdJKPDyLSMxPf8s4zikx0/preview" width="640" height="480"></iframe>
+## Sample Video:
+https://github.com/user-attachments/assets/96544a38-8ceb-4b0a-bcc3-a8dd16eff4df
+
+
 

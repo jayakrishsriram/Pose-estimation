@@ -2,7 +2,7 @@
 
 
 ## Introduction:
-This Project is a part of Infosys Internship 4.0 Project. This project focuses on exercise detection using Mediapipe, a Python module, to classify different exercises based on video data. The system leverages body point detection to calculate angles, which are then used to train a model for real-time exercise recognition. This project includes detection of 5 exercise(Deadlift, Hammer curl, Push up, Pull up, Squat). Then integrate the prediction part with streamlit for UI.
+This project focuses on exercise detection using Mediapipe, a Python module, to classify different exercises based on video data. The system leverages body point detection to calculate angles, which are then used to train a model for real-time exercise recognition. This project includes detection of 5 exercise(Deadlift, Hammer curl, Push up, Pull up, Squat). Then integrate the prediction part with streamlit for UI.
 
 ## Modules Used:
 - **Boto3**: Used to interact with amazon services. 
